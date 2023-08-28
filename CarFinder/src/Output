@@ -1,0 +1,34 @@
+Welcome to the Tata Motors Car Finder App!
+
+Options:
+1. List all Tata Motors cars
+2. Find a Tata Motors car
+Enter your choice (1/2, 0 to exit): 1
+
+Available Tata Motors Cars:
+Tata Nexon - Rs1500000.0 | Engine: Petrol | Color: White | Size: Compact SUV
+Tata Nexon.EV - Rs2000000.0 | Engine: Electric | Color: Blue | Size: Compact SUV
+Tata Tiago - Rs800000.0 | Engine: Petrol | Color: Silver | Size: Hatchback
+Tata Tiago.EV - Rs1000000.0 | Engine: Electric | Color: Blue | Size: Hatchback
+Tata Harrier - Rs2500000.0 | Engine: Diesel | Color: Black | Size: SUV
+Tata Altroz - Rs11000.0 | Engine: Petrol | Color: White | Size: Premium Hatchback
+Tata Punch - Rs900000.0 | Engine: Petrol | Color: Grey | Size: Mid Size SUV
+Tata Safari - Rs3000000.0 | Engine: Diesel | Color: Blue | Size: SUV
+
+Options:
+1. List all Tata Motors cars
+2. Find a Tata Motors car
+Enter your choice (1/2, 0 to exit): 2
+Enter your budget (maximum price): 1400000
+Enter your preferred Tata Motors car model: tiago
+Enter your preferred engine type: Petrol
+Enter your preferred color: Silver
+Enter your preferred size: Hatchback
+
+Matching Tata Motors Cars:
+Tata Tiago - Rs800000.0 | Engine: Petrol | Color: Silver | Size: Hatchback
+
+Options:
+1. List all Tata Motors cars
+2. Find a Tata Motors car
+Enter your choice (1/2, 0 to exit): 
